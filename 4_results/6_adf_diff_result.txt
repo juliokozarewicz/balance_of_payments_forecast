@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 2
+
+Variable: BALANCE OF PAYMENTS (US$ MILLIONS)
+ADF Test: -9.759788
+P-value: 0.000000
+Lags: 12
+Observations: 128
+Critical values:
+  1%: -4.031296
+  5%: -3.445363
+  10%: -3.147500
+--------------------------------------------------

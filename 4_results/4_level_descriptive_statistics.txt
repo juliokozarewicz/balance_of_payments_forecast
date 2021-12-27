@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: BALANCE OF PAYMENTS (US$ MILLIONS) (level)
+Mean: 2191.77
+Median: 2137.01
+Sample std: 2498.70
+Variance: 6243521.54
+Lowest: -4181.40
+Highest: 8686.58
+--------------------------------------------------

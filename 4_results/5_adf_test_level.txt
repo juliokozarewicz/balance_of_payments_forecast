@@ -1,0 +1,13 @@
+--------------------------------------------------
+ADF Results (level):
+
+Variable: BALANCE OF PAYMENTS (US$ MILLIONS)
+ADF Test: -2.272093
+P-value: 0.449443
+Lags: 14
+Observations: 128
+Critical values:
+  1%: -4.031296
+  5%: -3.445363
+  10%: -3.147500
+--------------------------------------------------
